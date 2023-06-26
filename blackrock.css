@@ -1,0 +1,39 @@
+.h1 {
+    position: absolute;
+    top: 0px;
+    left: 600px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+  }
+  #header{
+    background-color: aqua;
+}
+
+#data{
+  
+  position: absolute;
+  top: 30%;
+  left: 10%;
+}
+#bg{
+  width: 185%;
+ height: 85%;
+
+}
+
+#image{
+  height: 470px;
+  width: 400px;
+  margin-left: 350px;
+  margin-top: 30px;
+
+}
+.title{
+  font-weight:bolder;
+  font-size: x-large; 
+ font-family:  sans-serif; 
+
+}
+.titledes{
+  font-size:larger;
+}
